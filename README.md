@@ -7,6 +7,7 @@ A curated collection of high-quality wallpapers I’ve gathered from across the 
 Quickly jump to your favorite style:
 - Anime
 - Catppuccin
+- Dynamic
 - Game
 - Landscape
 - Nature
